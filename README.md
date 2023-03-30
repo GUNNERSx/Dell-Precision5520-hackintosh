@@ -2,8 +2,10 @@
 
 **OpenCore Version** : [0.9.0](https://github.com/acidanthera/OpenCorePkg/releases)
 
-**TRIPPLE BOOT: Ventura 13.3 / Windows 11 / Ubuntu 22.04**
-**Using reFind as bootloader**
+**TRIPPLE BOOT: Ventura 13.3 / Windows 11 / Ubuntu 22.04
+
+ ### Bootloader
+  *[reFind](https://www.rodsbooks.com/refind/)
 
 ## Configuration
 
