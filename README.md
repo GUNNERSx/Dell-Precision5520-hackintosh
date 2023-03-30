@@ -1,15 +1,14 @@
 # Dell-Precision5520-hackintosh
 
-![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/reFind.jpg)
 ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/desktop1.jpeg)
 
 
 **OpenCore Version** : [0.9.0](https://github.com/acidanthera/OpenCorePkg/releases)
 
-**TRIPPLE BOOT: Ventura 13.3 / Windows 11 / Ubuntu 22.04
-
  ### Bootloader
   *[reFind](https://www.rodsbooks.com/refind/)
+  ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/reFind.jpg)
+  **TRIPPLE BOOT: Ventura 13.3 / Windows 11 / Ubuntu 22.04
 
 ## Configuration
 
