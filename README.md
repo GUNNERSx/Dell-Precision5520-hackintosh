@@ -26,7 +26,7 @@
  * SDCard Reader：working.
  
  ### Post installation
-  * Use [GENSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your own Serial/UUID/MLB
+  * Use [GENSMBIOS](https://github.com/corpnewt/GenSMBIOS) or [OCAT](https://github.com/ic005k/OCAuxiliaryTools/releases)to generate your own Serial/UUID/MLB
    
  ## Credit
 
