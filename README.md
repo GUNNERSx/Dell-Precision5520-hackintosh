@@ -3,6 +3,7 @@
 **OpenCore Version** : [0.9.0](https://github.com/acidanthera/OpenCorePkg/releases)
 
 **TRIPPLE BOOT: Ventura 13.3 / Windows 11 / Ubuntu 22.04**
+**Using reFind as bootloader
 
 ## Configuration
 
@@ -26,7 +27,7 @@
  * SDCard Reader：working.
  
  ### Post installation
-  * Use [GENSMBIOS](https://github.com/corpnewt/GenSMBIOS) or [OCAT](https://github.com/ic005k/OCAuxiliaryTools/releases)to generate your own Serial/UUID/MLB
+  * Use [GENSMBIOS](https://github.com/corpnewt/GenSMBIOS) or [OCAT](https://github.com/ic005k/OCAuxiliaryTools/releases) to generate your own Serial/UUID/MLB
    
  ## Credit
 
