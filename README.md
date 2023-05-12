@@ -1,6 +1,6 @@
 # Dell-Precision5520-hackintosh
 
-![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/desktop1.jpeg)
+  ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/desktop1.jpeg)
 
 
 **OpenCore Version** : [0.9.0](https://github.com/acidanthera/OpenCorePkg/releases)
