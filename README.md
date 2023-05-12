@@ -6,7 +6,7 @@
 **OpenCore Version** : [0.9.0](https://github.com/acidanthera/OpenCorePkg/releases)
 
  ### Bootloader
-  *[reFind](https://www.rodsbooks.com/refind/)
+  * [reFind](https://www.rodsbooks.com/refind/)
   ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/reFind.jpg)
   **TRIPPLE BOOT** : Ventura 13.3 / Windows 11 / Ubuntu 22.04
 
