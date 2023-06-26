@@ -3,7 +3,7 @@
   ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/desktop1.jpeg)
 
 
-**OpenCore Version** : [0.9.0](https://github.com/acidanthera/OpenCorePkg/releases)
+**OpenCore Version** : [0.93](https://github.com/acidanthera/OpenCorePkg/releases)
 
  ### Bootloader
   * [reFind](https://www.rodsbooks.com/refind/)
@@ -36,4 +36,4 @@
    
  ## Credit
 
- - Thanks 、[mistzzt](https://github.com/mistzzt/XPS-9560-OpenCore)
+ - Thank, [mistzzt](https://github.com/mistzzt/XPS-9560-OpenCore)
