@@ -24,17 +24,17 @@
 | Display   | BenQ                        | Monitor        | Zowie XL2411P       |
 
  ### Working
- * iGPU：working.
- * Wireless Card(intel Wireless 8265 )：WiFi&BT working.
- * Audio：spkear & mic working.
- * Input：keyboard & touchpad working.
- * HDMI Port：working.
- * USB port：Working
- * Brightness Controll：Working
- * Sleep/Wake：working (Have to turn off display and turn it back ON after system wake UP)
+ * iGPU：working ✅
+ * Network: RTL8111H Gigabit ✅ (with [Realtek RTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X))
+ * Audio：spkear & mic working ✅
+ * Input：keyboard & touchpad working ✅
+ * USB port：Working ✅ (Mapped with [USBTOOLBox](https://github.com/USBToolBox/tool))
+ * Brightness Controll：Working ✅
+ * Sleep/Wake：working ✅ (Have to turn off display and turn it back ON after system wake UP)
+ * dGPU: RTX 2060 SUPER 🚫
  
  ### Post installation
-  * I generate random Platform ID, use [GENSMBIOS](https://github.com/corpnewt/GenSMBIOS) or [OCAT](https://github.com/ic005k/OCAuxiliaryTools/releases) to generate your own Serial/UUID/MLB
+  * I generated random Platform ID, use [GENSMBIOS](https://github.com/corpnewt/GenSMBIOS) or [OCAT](https://github.com/ic005k/OCAuxiliaryTools/releases) to generate your own Serial/UUID/MLB
    
  ## Credit
 
