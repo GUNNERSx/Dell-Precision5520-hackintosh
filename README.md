@@ -34,7 +34,9 @@
  * dGPU: RTX 2060 SUPER 🚫
  
  ### Post installation
-  * I generated random Platform ID, use [GENSMBIOS](https://github.com/corpnewt/GenSMBIOS) or [OCAT](https://github.com/ic005k/OCAuxiliaryTools/releases) to generate your own Serial/UUID/MLB
+  * I generated random Platform ID, use [GENSMBIOS](https://github.com/corpnewt/GenSMBIOS) or [OCAT](https://github.com/ic005k/OCAuxiliaryTools/releases) to generate your own Serial/UUID/MLB,
+  * ACPI are generate with [Corpnewt SSDTime](https://github.com/corpnewt/SSDTTime) under Windows11, default from [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#acpi) 
+   are in EFI/OC/ACPI/Back
    
  ## Credit
 
