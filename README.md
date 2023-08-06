@@ -1,6 +1,6 @@
-# HACKINTOSH ON MSI B360M PRO VD intel i7 9700K
+# HACKINTOSH MSI B360M PRO-VD intel i7 9700K
 [MSI B360M PRo VD](https://www.msi.com/Motherboard/B360M-PRO-VD/Specification) DVI_UHD630_i7-9700K
-# Hackintosh iMac 19,1 2019
+# Hackintosh iMac19,1 2019
 
   ![](https://github.com/GUNNERSx/HACKINTOSH-MSI-B360M_DVI_UHD630_i7-9700K/blob/main/Pic.jpg)
 
