@@ -4,12 +4,13 @@
 
   ![](https://github.com/GUNNERSx/HACKINTOSH-MSI-B360M_DVI_UHD630_i7-9700K/blob/main/Pic.jpg)
 
+  * Specification
+  ![](https://github.com/GUNNERSx/HACKINTOSH-MSI-B360M_DVI_UHD630_i7-9700K/blob/main/specs.jpg)
 
 **OpenCore Version** : [0.93](https://github.com/acidanthera/OpenCorePkg/releases)
 
  ### Bootloader
   * [reFind](https://www.rodsbooks.com/refind/)
-  ![](https://github.com/GUNNERSx/HACKINTOSH-MSI-B360M_DVI_UHD630_i7-9700K/blob/main/specs.jpg)
   **DUAL BOOT** : Ventura 13.5 / Windows 11 
 
 ## Configuration
