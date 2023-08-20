@@ -22,7 +22,7 @@
 | Memory    | Gskill 2667MHz DDR4 8GB x2  | Storage        | WD_Black SN770      |
 | Mobo      | MSI B360M PRo VD            | BIOS revision  | AMI BIOS 7B53v1C    |
 | Network   | RTL8111H Gigabit            | Audio          | Realtek ALC887      | 
-| Display   | BenQ                        | Monitor        | Zowie XL2411P       |
+| Display   | BenQ                        | Monitor 144Hz  | Zowie XL2411P  24"  |
 
  ### Working
  * iGPU：working ✅
