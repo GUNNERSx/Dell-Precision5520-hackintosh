@@ -33,6 +33,7 @@
  
  ### Post installation
   * Use [GENSMBIOS](https://github.com/corpnewt/GenSMBIOS) or [OCAT](https://github.com/ic005k/OCAuxiliaryTools/releases) to generate your own Serial/UUID/MLB
+  * Kernel/Quirks/ AppleXcpmCfgLock >> YES	if CFG-Lock is not disabled in the BIOS (otherwise it will never boot)
    
  ## Credit
 
