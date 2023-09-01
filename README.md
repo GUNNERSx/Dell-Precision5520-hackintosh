@@ -28,7 +28,7 @@
  * iGPU：working ✅
  * Network: RTL8111H Gigabit ✅ (with [Realtek RTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X))
  * Audio：spkear & mic working ✅
- * Input：keyboard & touchpad working ✅
+ * Input：keyboard mouse ✅
  * USB port：Working ✅ (Mapped with [USBTOOLBox](https://github.com/USBToolBox/tool))
  * Brightness Controll：Working ✅
  * Sleep/Wake：working ✅ (Have to turn off display and turn it back ON after system wake UP)
@@ -36,7 +36,7 @@
  
  ### Post installation
   * I generated random Platform ID, use [GENSMBIOS](https://github.com/corpnewt/GenSMBIOS) or [OCAT](https://github.com/ic005k/OCAuxiliaryTools/releases) to generate your own Serial/UUID/MLB,
-  * ACPI are generate with [Corpnewt SSDTime](https://github.com/corpnewt/SSDTTime) under Windows11, default from [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#acpi) 
+  * ACPI are generate with [Corpnewt SSDTime](https://github.com/corpnewt/SSDTTime) under Windows11 manually, default from [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#acpi) 
    are in EFI/OC/ACPI/Back
    
  ## Credit
