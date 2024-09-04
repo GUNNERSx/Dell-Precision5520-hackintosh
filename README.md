@@ -7,7 +7,7 @@
   * Specification
   ![](https://github.com/GUNNERSx/HACKINTOSH-MSI-B360M_DVI_UHD630_i7-9700K/blob/main/specs.jpg)
 
-**OpenCore Version** : [0.93](https://github.com/acidanthera/OpenCorePkg/releases)
+**OpenCore Version** : [1.0.1](https://github.com/acidanthera/OpenCorePkg/releases)
 
  ### Bootloader
   * [reFind](https://www.rodsbooks.com/refind/)
