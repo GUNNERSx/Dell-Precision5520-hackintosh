@@ -7,7 +7,7 @@
   * Specification
   ![](https://github.com/GUNNERSx/HACKINTOSH-MSI-B360M_DVI_UHD630_i7-9700K/blob/main/specs.jpg)
 
-**OpenCore Version** : [0.93](https://github.com/acidanthera/OpenCorePkg/releases)
+**OpenCore Version** : [1.0.1](https://github.com/acidanthera/OpenCorePkg/releases)
 
  ### Bootloader
   * [reFind](https://www.rodsbooks.com/refind/)
@@ -18,21 +18,22 @@
 
 | Model     | iMac 19,1                   | Version        | Ventura 13.5        |
 | :-------- | :---------------------------| :------------- | :------------------ |
-| Processor | Intel Core i7-9700K         | Graphics       | UHD Graphics 630    |
+| Processor | Intel Core i7-9700K         | Graphics       | Sapphire Rx580 8Go  |
 | Memory    | Gskill 2667MHz DDR4 8GB x2  | Storage        | WD_Black SN770      |
 | Mobo      | MSI B360M PRo VD            | BIOS revision  | AMI BIOS 7B53v1C    |
 | Network   | RTL8111H Gigabit            | Audio          | Realtek ALC887      | 
 | Display   | BenQ                        | Monitor 144Hz  | Zowie XL2411P  24"  |
 
  ### Working
- * iGPU：working ✅
+ * GPU: [Sapphire NITRO+ RX 580 Special Edition](https://www.techpowerup.com/gpu-specs/sapphire-nitro-rx-580-special-edition.b4912) ✅
+ * Wifi 6 AX210 AirportItlwm ✅
+ * Bluetooth IntelBluetoothFirmware ✅
  * Network: RTL8111H Gigabit ✅ (with [Realtek RTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X))
  * Audio：spkear & mic working ✅
  * Input：keyboard mouse ✅
  * USB port：Working ✅ (Mapped with [USBTOOLBox](https://github.com/USBToolBox/tool))
- * Brightness Controll：Working ✅
  * Sleep/Wake：working ✅ (Have to turn off display and turn it back ON after system wake UP)
- * dGPU: RTX 2060 SUPER 🚫
+ 
  
  ### Post installation
   * I generated random Platform ID, use [GENSMBIOS](https://github.com/corpnewt/GenSMBIOS) or [OCAT](https://github.com/ic005k/OCAuxiliaryTools/releases) to generate your own Serial/UUID/MLB,
