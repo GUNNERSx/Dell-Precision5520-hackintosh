@@ -1,5 +1,5 @@
 # HACKINTOSH Dell Precision 5520
-# Hackintosh MacBook Pro 2017
+# MacBook Pro 2017
 
   ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/desktop.webp)
 
