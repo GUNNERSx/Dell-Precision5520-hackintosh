@@ -1,17 +1,16 @@
-# HACKINTOSH MSI B360M PRO-VD intel i7 9700K
-[MSI B360M PRo VD](https://www.msi.com/Motherboard/B360M-PRO-VD/Specification) Rx580_i7-9700K
-# Hackintosh iMac19,1 2019
+# HACKINTOSH Dell Precision 5520
+# Hackintosh MacBook Pro 2017
 
-  ![](https://github.com/GUNNERSx/HACKINTOSH-MSI-B360M_DVI_UHD630_i7-9700K/blob/main/Pic.jpg)
+  ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/desktop.webp)
 
   * Specification
-  ![](https://github.com/GUNNERSx/HACKINTOSH-MSI-B360M_DVI_UHD630_i7-9700K/blob/main/specs.jpg)
+  ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/specs.webp)
 
-**OpenCore Version** : [1.0.1](https://github.com/acidanthera/OpenCorePkg/releases)
+**OpenCore Version** : [1.0.2](https://github.com/acidanthera/OpenCorePkg/releases)
 
  ### Bootloader
   * [reFind](https://www.rodsbooks.com/refind/)
-  * ![](https://github.com/GUNNERSx/HACKINTOSH-MSI-B360M_DVI_UHD630_i7-9700K/blob/main/reFind.jpg)
+  * ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/reFindBootManager.webp)
   **TRIPLE BOOT** : Ventura 13.6.7 / Windows 11 / Linux Mint
 
 ## Configuration
