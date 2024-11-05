@@ -25,9 +25,8 @@
 
  ### Working
  * GPU: Intel(R) UHD Graphics 630✅
- * Wifi: AirportItlwm ✅
- * Bluetooth IntelBluetoothFirmware ✅
- * Network:  ✅ 
+ * Network Wifi: AC8265 AirportItlwm ✅
+ * Bluetooth: IntelBluetoothFirmware ✅
  * Audio：spkear & mic working ✅
  * Input：keyboard mouse ✅
  * USB port：Working ✅ (Mapped with [USBTOOLBox](https://github.com/USBToolBox/tool))
