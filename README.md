@@ -1,9 +1,9 @@
 # HACKINTOSH Dell Precision 5520
-# MacBook Pro 2017
+# MacBook Pro 2017 14.3
 
   ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/desktop.webp)
 
-  * Specification
+  * Specifications
   ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/specs.webp)
 
 **OpenCore Version** : [1.0.2](https://github.com/acidanthera/OpenCorePkg/releases)
@@ -11,17 +11,17 @@
  ### Bootloader
   * [reFind](https://www.rodsbooks.com/refind/)
   * ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/reFindBootManager.webp)
-  **TRIPLE BOOT** : Ventura 13.6.7 / Windows 11 / Ubuntu 22.04
+  **TRIPLE BOOT** : Ventura 13.6.7 / Ubuntu 22.04 / Windows 11
 
 ## Configuration
 
 | Model     | MacBook Pro 2017  14.3      | Version        | Ventura 13.6        |
 | :-------- | :---------------------------| :------------- | :------------------ |
-| Processor | Intel Core i7-7820HQ        | Graphics       | Intel UHD Graphics 630 |
-| Memory    | 16 Go x2                    | Storage        | Samsung SSD 970     |
-| Mobo      | DeLl                        | BIOS revision  | DeLL Bios           |
-| Network   | intel AC 8265               | Audio          | Realtek             | 
-| Display   | Dell LCD                    | Monitor        | LCD integrated      |
+| Processor | Intel Core i7-7820HQ        | Graphics       | Intel UHD 630       |
+| Memory    | 16Go x2                     | Storage        | SamSung SSD 970EVO  |
+| Mobo      | DeLL                        | BIOS revision  | DeLL Bios           |
+| Network   | intel AC 8265               | Audio          | Realtek layout 42   | 
+| Display   | DeLL LCD                    | Monitor        | LCD integrated      |
 
  ### Working
  * GPU: Intel(R) UHD Graphics 630✅
