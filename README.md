@@ -6,16 +6,16 @@
   * Specifications
   ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/specs.webp)
 
-**OpenCore Version** : [1.0.2](https://github.com/acidanthera/OpenCorePkg/releases)
+**OpenCore Version** : [1.0.5](https://github.com/acidanthera/OpenCorePkg/releases)
 
  ### Bootloader
   * [reFind](https://www.rodsbooks.com/refind/)
   * ![](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/reFindBootManager.webp)
-  **TRIPLE BOOT** : Ventura 13.6.7 / Ubuntu 22.04 / Windows 11
+  **TRIPLE BOOT** : Ventura 13.6.4 / Ubuntu 22.04 / Windows 11
 
 ## Configuration
 
-| Model     | MacBook Pro 2017  14.3      | Version        | Ventura 13.6        |
+| Model     | MacBook Pro 2017  14.3      | Version        | Ventura 13.6.4      |
 | :-------- | :---------------------------| :------------- | :------------------ |
 | Processor | Intel Core i7-7820HQ        | Graphics       | Intel UHD 630       |
 | Memory    | 16Go x2                     | Storage        | SamSung SSD 970EVO  |
@@ -31,6 +31,8 @@
  * Input：keyboard mouse ✅
  * USB port：Working ✅ (Mapped with [USBTOOLBox](https://github.com/USBToolBox/tool))
  * Sleep/Wake：working ✅
+ * Brightness keys ✅
+ * Slow Trackpad fixed ✅
  
  
  ### Post installation
