@@ -9,9 +9,9 @@
 
 ---
 
-## 🛠️ Bootloader 
-🔄  [**OpenCore**: 1.0.5](https://github.com/acidanthera/OpenCorePkg/releases)  
-🚀  [**reFind**:](https://www.rodsbooks.com/refind/)  
+## 🔄Bootloader 
+🌀 [**OpenCore** 1.0.5](https://github.com/acidanthera/OpenCorePkg/releases)  
+🚀 [**ReFind** :](https://www.rodsbooks.com/refind/)  
 ![reFind boot Manager](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/reFindBootManager.webp)  
 
 💻 **TRIPLE BOOT**  
