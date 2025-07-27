@@ -7,9 +7,12 @@
 ## 🛠️ Specifications  
 ![Specs](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/specs.webp)  
 
-🔄 **OpenCore Version**: [1.0.5](https://github.com/acidanthera/OpenCorePkg/releases)  
-🚀 **Bootloader**: [reFind](https://www.rodsbooks.com/refind/)  
-![reFind Manager](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/reFindBootManager.webp)  
+---
+
+## 🔄Bootloader 
+🌀 [**OpenCore** 1.0.5](https://github.com/acidanthera/OpenCorePkg/releases)  
+🚀 [**ReFind** :](https://www.rodsbooks.com/refind/)  
+![reFind boot Manager](https://github.com/GUNNERSx/Dell-Precision5520-hackintosh/blob/main/reFindBootManager.webp)  
 
 💻 **TRIPLE BOOT**  
 - 🍎 macOS Ventura 13.xx  
